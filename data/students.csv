@@ -1,0 +1,9 @@
+id,regNo,fullName,email,status
+S1,REGS1,Ajay,ajay@example.com,ACTIVE
+S2,REGS2,Raj,raj@example.com,ACTIVE
+S3,REGS3,Riya,riya@example.com,ACTIVE
+S4,REGS4,Gagan,gagan@example.com,ACTIVE
+S5,REGS5,Meera,meera@example.com,ACTIVE
+S6,REGS6,Aditya,aditya@example.com,ACTIVE
+S7,REGS7,Anushka,anushka@example.com,ACTIVE
+S8,REGS8,Reena,reena@university.com,ACTIVE
