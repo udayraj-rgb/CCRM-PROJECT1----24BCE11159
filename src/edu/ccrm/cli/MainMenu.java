@@ -327,10 +327,3 @@ private void showReports() {
     
 }
 
-/*
-cd C:\Users\HP\Desktop\CCRM
-javac -d bin src/edu/ccrm/cli/MainMenu.java src/edu/ccrm/cli/CLIApp.java src/edu/ccrm/domain/*.java src/edu/ccrm/service/*.java src/edu/ccrm/io/*.java
-
-java -cp bin edu.ccrm.cli.CLIApp
-
-*/
