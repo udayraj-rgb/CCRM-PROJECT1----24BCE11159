@@ -1,6 +1,5 @@
 # 📘 Usage Guide – Campus Course & Records Manager (CCRM)
-by ABHIRAM MORESHWAR DAFLAPURKAR
-24BCE10542
+by UDAYRAJ PATIL 24BCE11159
 
 This guide explains how to *set up, run, and use* the Campus Course & Records Manager (CCRM) application.
 
@@ -26,9 +25,6 @@ Optional: Eclipse IDE or VS Code for editing/debugging
 ▶ Setup & Run
 
 1. Clone the Repository
-
-git clone https://github.com/ABHIRAM-DAFLAPURKAR/CCRM-PROJECT----24BCE10542.git
-cd CCRM-PROJECT----24BCE10542
 
 2. Compile the Source Code
 
