@@ -39,10 +39,10 @@ public class Course {
         this.department = department;
     }
     public Course(String code, String title, int credits, Instructor instructor) {
-        this(code, title, credits, instructor, Semester.FALL, "General"); 
+        this(code, title, credits, instructor, Semester.INTERIM, "General"); 
     }
     public Course() {
-        this("UNDEFINED", "Untitled", 0, null, Semester.FALL, "General");
+        this("UNDEFINED", "Untitled", 0, null, Semester.INTERIM, "General");
     }
 
     // ---------- Getters and Setters ----------
